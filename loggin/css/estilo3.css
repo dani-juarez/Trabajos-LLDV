@@ -1,0 +1,29 @@
+body{
+	-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+img {
+	height:auto;
+	width: 250px;
+margin: auto;
+display: block;
+border-radius: 35%;
+}
+tr{
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+td{
+	background-color: rgba(240, 247, 242, 0.4);
+	border-radius: 10px;
+}
+h2{
+	color: #2BFBFE;
+		font:20px normal normal uppercase helvetica, arial, serif
+}
+li{
+		font:20px normal normal uppercase helvetica, arial, serif
+}
